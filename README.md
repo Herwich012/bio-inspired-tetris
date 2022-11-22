@@ -18,7 +18,7 @@ with `<env>` the name you want to give the environment.
 
 ## Perform evolution
 Here's an overview of how the evolution works:
-![](figures/overview.png)
+![](figures/overview.png) \
 In `run_evolution.py` the following evolution parameters can be set:
 | Parameter | Description |
 | --- | --- |
