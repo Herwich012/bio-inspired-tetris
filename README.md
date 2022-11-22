@@ -40,4 +40,4 @@ In `run_evolution.py` the following evolution parameters can be set:
 When running an evolution, a folder `./runs/run<ID>` is created where the generation tensors and rewards are stored.
 
 ## Evaluate an evolution
-The performance of the best performing 
+The performance of a completed evolution can be evaluated by use of one of the `eval` python scripts (use the applicable one based on network type). These generate a plot of the rewards vs generations and render a game with the best performing performing individual.
